@@ -1,5 +1,5 @@
 def turn(board)
-  index = 0
+  index = index
   puts "Please enter 1-9:"
   input = gets.strip
   input_to_index(input)
